@@ -1,2 +1,2 @@
-hi how are you!!
-hyyy not good 
+his is my first line in master.
+this is my first line in branchb1.
